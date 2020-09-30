@@ -1,0 +1,139 @@
+[[global]]
+identifier = "docs"
+name = "Docs"
+title = "Docs"
+url = "/documentation/"
+weight = -100
+
+[[global]]
+identifier = "products"
+name = "Products"
+title = "Products"
+url = "/products/"
+weight = -110
+
+[[global]]
+identifier = "solutions"
+name = "Solutions"
+title = "Solutions"
+url = "/solutions/"
+weight = -120
+
+[[global]]
+identifier = "news"
+name = "News"
+title = "News"
+url = "/news/"
+weight = -90
+
+[[global]]
+identifier = "contact-us"
+name = "Contact Us"
+title = "Contact Us"
+url = "/contact-us/"
+weight = -70
+
+[[global]]
+identifier = "github"
+name = "GitHub"
+title = "GitHub"
+post = "external"
+url = "https://github.com/societe-generale/cloud-innovation-platform/"
+weight = -60
+
+[[docs]]
+name = "About CIP"
+weight = 10
+identifier = "about"
+url = "/about/"
+
+[[docs]]
+name = "Terms & Conditions"
+weight = 20
+identifier = "tos"
+url = "/tos/"
+
+[[docs]]
+name = "Frequently Asked Questions"
+weight = 30
+identifier = "faq"
+url = "/faq/"
+
+[[docs]]
+name = "Getting Started"
+weight = 40
+identifier = "getting-started"
+post = "break"
+url = "/getting-started/"
+
+[[docs]]
+name = "Products"
+weight = 60
+identifier = "prd"
+post = "break"
+url = "/products/"
+
+[[docs]]
+name = "App boxes"
+parent = "prd"
+weight = 20
+identifier = "prd-ab"
+
+[[docs]]
+name = "Tool boxes"
+parent = "prd"
+weight = 30
+identifier = "prd-tb"
+
+[[docs]]
+name = "Solutions"
+weight = 50
+identifier = "so"
+post = "break"
+url = "/solutions/"
+
+[[docs]]
+name = "Co Working"
+parent = "so"
+weight = 20
+identifier = "so-cw"
+
+[[docs]]
+name = "Data Analysis"
+parent = "so"
+weight = 30
+identifier = "so-da"
+
+[[docs]]
+name = "Featured Partners"
+weight = 70
+identifier = "prtn"
+post = "break"
+url = "/partners/"
+
+[[docs]]
+name = "Name 1"
+parent = "prtn"
+weight = 20
+identifier = "prtn-name1"
+
+[[docs]]
+name = "News"
+weight = 90
+post = "break"
+identifier = "news"
+url = "/news/"
+
+[[docs]]
+name = "Contribute"
+weight = 100
+post = "break"
+identifier = "contribute"
+url = "/contribute/"
+
+[[docs]]
+name = "Socgen"
+weight = 20
+identifier = "socgen"
+url = "/socgen/"
+
